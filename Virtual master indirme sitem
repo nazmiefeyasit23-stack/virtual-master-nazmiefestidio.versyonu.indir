@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Master – İndirme Sitesi</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+            margin: 0;
+            padding: 0;
+            color: #222;
+        }
+
+        header {
+            background: white;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 1px solid #ddd;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: 30px auto;
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px #0001;
+        }
+
+        .app-box {
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            background: #fafafa;
+        }
+
+        .app-title {
+            font-size: 22px;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+
+        .version {
+            font-size: 15px;
+            color: #555;
+            margin-bottom: 10px;
+        }
+
+        .download-btn {
+            display: inline-block;
+            background: #007bff;
+            color: white;
+            padding: 12px 20px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        .download-btn:hover {
+            background: #005fcc;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px;
+            font-size: 14px;
+            color: #666;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    Virtual Master – Resmi İndirme Sitesi (Nazmi Efe)
+</header>
+
+<div class="container">
+
+    <div class="app-box">
+        <div class="app-title">Virtual Master – Nazmi Efe Edition</div>
+        <div class="version">Özel Geliştirilmiş Sürüm</div>
+        <a class="download-btn" href="#">(Link Hazırlanmadı)</a>
+    </div>
+
+    <div class="app-box">
+        <div class="app-title">Virtual Master v3.2.23</div>
+        <div class="version">Boyut: 141 MB</div>
+        <a class="download-btn"
+           href="https://www.apkmirror.com/apk/vm-space-tech/virtual-master-android-clone/virtual-master-android-clone-3-2-23-release/virtual-master-android-clone-3-2-23-android-apk-download/">
+            İndir
+        </a>
+    </div>
+
+    <div class="app-box">
+        <div class="app-title">Virtual Master v3.2.51</div>
+        <div class="version">Boyut: 148 MB</div>
+        <a class="download-btn"
+           href="https://www.apkmirror.com/apk/vm-space-tech/virtual-master-android-clone/virtual-master-android-clone-3-2-51-release/virtual-master-android-clone-3-2-51-android-apk-download/download/?key=40c5c6eb9c53a5fc145c6eab8ee6f3c495355d28&forcebaseapk=true">
+            İndir
+        </a>
+    </div>
+
+</div>
+
+<footer>
+    © 2025 Virtual Master – Nazmi Efe Tarafından Yapılmıştır
+</footer>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Master – İndirme Sitesi</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+            margin: 0;
+            padding: 0;
+            color: #222;
+        }
+
+        header {
+            background: white;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 1px solid #ddd;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: 30px auto;
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px #0001;
+        }
+
+        .app-box {
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            background: #fafafa;
+        }
+
+        .app-title {
+            font-size: 22px;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+
+        .version {
+            font-size: 15px;
+            color: #555;
+            margin-bottom: 10px;
+        }
+
+        .download-btn {
+            display: inline-block;
+            background: #007bff;
+            color: white;
+            padding: 12px 20px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        .download-btn:hover {
+            background: #005fcc;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px;
+            font-size: 14px;
+            color: #666;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    Virtual Master – Resmi İndirme Sitesi (Nazmi Efe)
+</header>
+
+<div class="container">
+
+    <div class="app-box">
+        <div class="app-title">Virtual Master – Nazmi Efe Edition</div>
+        <div class="version">Özel Geliştirilmiş Sürüm</div>
+        <a class="download-btn" href="#">(Link Hazırlanmadı)</a>
+    </div>
+
+    <div class="app-box">
+        <div class="app-title">Virtual Master v3.2.23</div>
+        <div class="version">Boyut: 141 MB</div>
+        <a class="download-btn"
+           href="https://www.apkmirror.com/apk/vm-space-tech/virtual-master-android-clone/virtual-master-android-clone-3-2-23-release/virtual-master-android-clone-3-2-23-android-apk-download/">
+            İndir
+        </a>
+    </div>
+
+    <div class="app-box">
+        <div class="app-title">Virtual Master v3.2.51</div>
+        <div class="version">Boyut: 148 MB</div>
+        <a class="download-btn"
+           href="https://www.apkmirror.com/apk/vm-space-tech/virtual-master-android-clone/virtual-master-android-clone-3-2-51-release/virtual-master-android-clone-3-2-51-android-apk-download/download/?key=40c5c6eb9c53a5fc145c6eab8ee6f3c495355d28&forcebaseapk=true">
+            İndir
+        </a>
+    </div>
+
+</div>
+
+<footer>
+    © 2025 Virtual Master – Nazmi Efe Tarafından Yapılmıştır
+</footer>
+
+</body>
+</html>
